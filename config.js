@@ -14,7 +14,7 @@
 
 const config = {
   token: '7660351760:AAEt4pgh6KH7jDIw6Mxo96vy2SpNhI0FNBs',
-  adminId: 'ID_OWNER', 
+  adminId: '5214070763', 
 };
 
 module.exports = config;
