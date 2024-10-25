@@ -13,7 +13,7 @@
 */
 
 const config = {
-  token: 'TOKEN_BOT',
+  token: '7660351760:AAEt4pgh6KH7jDIw6Mxo96vy2SpNhI0FNBs',
   adminId: 'ID_OWNER', 
 };
 
